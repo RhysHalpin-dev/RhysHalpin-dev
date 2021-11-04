@@ -5,7 +5,6 @@
 [![Github Badge](https://img.shields.io/badge/-RhysHalpindev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RhysHalpin-dev)](https://www.github.com/RhysHalpin-dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-RhysHalpin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhys-halpin-9b387410b/)
 
-/*
 <!-- TODO: Add last video link -->
 
 <!-- - 🔭 -->
