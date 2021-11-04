@@ -5,14 +5,15 @@
 [![Github Badge](https://img.shields.io/badge/-RhysHalpindev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/RhysHalpin-dev)](https://www.github.com/RhysHalpin-dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-RhysHalpin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhys-halpin-9b387410b/)
 
+/*
 <!-- TODO: Add last video link -->
 
-- 🔭 
-- :computer: 
-- 🤔 
-- 📫 
-- 😄 
-- ⚡ 
+<!-- - 🔭 -->
+<!--- - :computer: -->
+<!-- - 🤔 -->
+<!-- - 📫 -->
+<!-- - 😄 -->
+<!-- - ⚡ -->
 
 #### Top Technologies
 
@@ -21,5 +22,5 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 #### :mailbox: Contact!
-- :paperclip: [My Resume/CV]()
+- :paperclip: [My CV]()
 - :email: rhyshalpin@hotmail.co.uk
