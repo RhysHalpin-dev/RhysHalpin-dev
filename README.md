@@ -1,9 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rhys Halpin
+Hi My name is Rhys Halpin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
-
-Recent Graduate, Full stack Developer, UK
------------------------------------------
-
 Recent Graduate, Full stack Developer, UK
 
 * 🌍  I'm based in North East UK
