@@ -4,7 +4,6 @@ Hi My name is Rhys Halpin ![](https://user-images.githubusercontent.com/18350557
 
 * 🌍  I'm based in North East UK
 * 🖥️  See my portfolio at [https://halpindev.netlify.app/](http://halpindev.netlify.app/)
-* ✉️  You can contact me at [rhyshalpin@hotmail.co.uk](mailto:rhyshalpin@hotmail.co.uk)
 * 🚀  I'm currently working on [bug-tracker](https://github.com/RhysHalpin-dev/bug-tracker)
 * 🧠  I'm learning C#
 
