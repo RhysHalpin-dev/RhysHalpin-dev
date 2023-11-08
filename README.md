@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RhysHalpin-dev.RhysHalpin-dev" />
-<h1 align="center">⚡Hi My name is Rhys Halpin ⚡<br> Recent Graduate, Full stack Developer, UK</h1>
+<h1 align="center">⚡Hi My name is Rhys Halpin ⚡<br> Recent Graduate, Software Developer, UK</h1>
 
 <div align="center">
 
