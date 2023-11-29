@@ -23,9 +23,9 @@ I'm a full-stack developer. All coding projects are built from the ground up, fr
 <img src="https://skillicons.dev/icons?i=react,html,css,svelte,javascript,typescript,cs,go,mysql,azure,aws,git" />
 
 ---
-
+<!---
 ### 📊 Public Stats
 
 ![Rhys's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhysHalpin-dev&show_icons=true&theme=gruvbox)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rhyshalpin?theme=dark&font=Red%20Hat%20Display)
-
+-->
