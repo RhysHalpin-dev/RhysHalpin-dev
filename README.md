@@ -2,7 +2,7 @@
 
 **`(Graduate, Software Developer, UK)`** 
 
-I'm a full-stack developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With a a background in computer science, I'm constantly exploring new technologies and methodologies to enhance my skills. Explore my repositories to see what I've been working on and let's get in touch to make something awesome together! 👀
+I'm a full-stack developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With a a background in computer science, I'm constantly exploring new technologies and methodologies to enhance my skills. Explore my repositories to see what I've been working on.
 
    <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RhysHalpin-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
